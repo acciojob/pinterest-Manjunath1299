@@ -4,3 +4,26 @@
 	justify-content:left;
 	align-items:center;
 }
+img{
+	width:50%;
+	height:200px;
+	object-fit:cover;
+}
+.content{
+	margin:40px;
+}
+button{
+	margin-left:120px;
+}
+.explore{
+	background-color:red;
+	padding:10px;
+	color:white;
+	border-radius:5px;
+}
+div>h2{
+	text-align:center;
+}
+div>p{
+	text-align:center;
+}
