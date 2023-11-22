@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 .hero{
 	display:flex;
-	justify-content:left
+	justify-content:left;
+	align-items:center;
 }
